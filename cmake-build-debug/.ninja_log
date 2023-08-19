@@ -1,4 +1,8 @@
 # ninja log v5
-2	612	1692435413040169595	CMakeFiles/CPPPractical.dir/LeetCode/TwoSum.cpp.o	ca500b34a2fbe4b7
-0	712	1692435413141120841	CMakeFiles/CPPPractical.dir/main.cpp.o	f1aa1d215e3f2dda
-712	902	1692435413337576665	CPPPractical	a31e8bff8260130f
+519	606	1692444482438698111	CPPPractical	a31e8bff8260130f
+2	151	1692438418624351170	CMakeFiles/CPPPractical.dir/LeetCode/AddTwoNumbers.cpp.o	b63d624d45dc74af
+2	519	1692444482348486923	CMakeFiles/CPPPractical.dir/main.cpp.o	f1aa1d215e3f2dda
+2	501	1692438418971575627	CMakeFiles/CPPPractical.dir/LeetCode/TwoSum.cpp.o	ca500b34a2fbe4b7
+1	119	1692444776314324274	build.ninja	f3c25e7d7c559c2f
+1	603	1692445599838935542	CMakeFiles/CPPPractical.dir/main.cpp.o	f1aa1d215e3f2dda
+603	690	1692445599932288046	CPPPractical	a31e8bff8260130f

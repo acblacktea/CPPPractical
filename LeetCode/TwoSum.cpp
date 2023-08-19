@@ -2,7 +2,7 @@
 // Created by ByteDance on 19/8/23.
 //
 
-#include "LeetCode.h"
+#include "TwoSum.h"
 #include <algorithm>
 using namespace std;
 namespace LeetCode {
@@ -10,7 +10,7 @@ namespace LeetCode {
         return a.first < b.first;
     }
 
-    vector<int> LeetCode::twoSum(vector<int> &nums, int target) {
+    vector<int> TwoSum::twoSum(vector<int> &nums, int target) {
         vector<pair<int, int>>ve;
         for (int i = 0; i < nums.size(); ++i) {
             ve.emplace_back(nums[i], i);
