@@ -1,0 +1,3 @@
+/Users/bytedance/CPPPractical/cmake-build-debug/CMakeFiles/CPPPractical.dir
+/Users/bytedance/CPPPractical/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bytedance/CPPPractical/cmake-build-debug/CMakeFiles/rebuild_cache.dir
