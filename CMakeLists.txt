@@ -8,4 +8,5 @@ add_executable(CPPPractical main.cpp
         LeetCode/TwoSum.cpp
         LeetCode/AddTwoNumbers.h
         LeetCode/LengthOfLongestSubstring.h
-        LeetCode/ReverseInteger.h)
+        LeetCode/ReverseInteger.h
+        LeetCode/MyAtoi.h)
